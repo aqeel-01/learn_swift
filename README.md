@@ -45,9 +45,6 @@ Explore closures in Swift, including how to define and use them for callback fun
 Dive into advanced Swift concepts including:
 - **Generics**: Learn how to write flexible, reusable code.
 - **Concurrency (async/await)**: Understand how to handle asynchronous operations in Swift using the async/await pattern.
-- **Memory Management (ARC)**: Learn about Automatic Reference Counting (ARC) and how Swift manages memory automatically.
-
-
 
 ---
 
